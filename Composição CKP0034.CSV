@@ -1,0 +1,15 @@
+Necessidade de Componentes,0001,CONFIANCE MEDICAL,Pág.:,   1
+Produto:,CKP0034 - Ckt Placa de Sensor da Tampa de Acesso
+Derivação:,001 - CONFIANCE
+Quantidade:,"          1,0000",U.M.:,UN,Cliente:,
+Tipo,Estágio,Componente,Derivação,Descrição,Quantidade,Qtd. Est.,U.M.,Preço Médio
+C,  30,PCI0066, ,Placa Sensor da Tampa de Acesso - CM-Flow,"          1,0000",24,UN,"         18,04815","  0,000"
+C,  30,PCI0081, ,Placa do Sensor optico da Tampa de Acesso - CM-Flow,"          1,0000",47,UN,"          9,84860","  0,000"
+C,  30,CCI0038, ,Sensor de Refletância PTH QRE1113,"          1,0000",86,UN,"         12,63103","  0,000"
+C,  30,RES0039, ,Resistor 330ohms / 1/4W - 1%,"          2,0000",307,UN,"          0,12333","  0,000"
+C,  30,CON0156, ,Barra de Pinos - 180° - 2 Pinos,"          2,0000",122,UN,"          0,28314","  0,000"
+C,  30,CBR0009, ,Cabo 180mm Vermelho Conec JST SEH-001T-P0.6/Ul1007#24 (M 2RED),"          1,0000",9489,UN,"          0,26984","  0,000"
+C,  30,CBR0061, ,Cabo 440mm Preto Conec JST SEH-001T-P0.6 (M 4BLACK),"          1,0000",3125,UN,"          0,51757","  0,000"
+C,  30,CBR0026, ,Cabo 440mm Vermelho Conec JST SEH-001T-P0.6/Ul1007#24 (M 4RED),"          1,0000",2123,UN,"          0,52268","  0,000"
+Preço Estimado:,"         42,24434"
+MPNE209.GER - PCP/Necessidades de Produção/Compra (MRP) - 12/02/2025 - 09:56,Usuário:,Stephanie Almeida
